@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ENGLISH</title>
+</head>
+<body background="E:/jouback.jpg">
+<h2><center>ENGLISH</center></h2>
+<ul>
+<li><a href="https://www.theweek.in/"><button>THE WEEK</button></a></li>
+<br>
+<li><a href="http://www.readersdigest.co.in/"><button>REDEAR'S DIGEST</button></a></li>
+<br>
+<li><a href="https://www.wisdompubs.org/subscribe-wisdom-journal"><button>WISDOM</button></a></li>
+<br>
+<li><a href="https://www.indiatoday.in/"><button>INDIA TODAY</button></a></li>
+<br>
+<li><a href="https://www.femina.in/"><button>FEMINA</button></a></li>
+<br>
+<li><a href="http://www.frontline.in/"><button>FRONTLINE</button></a></li>
+<br>
+</body>
+</html>
