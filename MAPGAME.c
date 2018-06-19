@@ -24,7 +24,7 @@ int main()
 		{
 			if(map[i][j]!=1)
 			{
-				map[i][j]=0;
+				printf("ichanged here");
 			}
 		}
 	}
@@ -125,6 +125,6 @@ int main()
 		}		
 	}while((x1!=x2)||(y1!=y2));
 	if(flag==0)
-		printf("You Have Successfully Won The Game");
+		printf("You Have Successfully LOST !!!  The Game");
 	return 0;
 }
