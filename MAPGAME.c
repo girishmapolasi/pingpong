@@ -24,7 +24,7 @@ int main()
 		{
 			if(map[i][j]!=1)
 			{
-				map[i][j]=0;
+				printf("ichanged here");
 			}
 		}
 	}
